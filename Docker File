@@ -1,3 +1,4 @@
 From CentOS
 yum install tree -y
 add . /workd
+Yum install tomcat -y
