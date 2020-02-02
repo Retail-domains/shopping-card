@@ -1,1 +1,2 @@
-Cent OS
+From CentOS
+yum install tree -y
